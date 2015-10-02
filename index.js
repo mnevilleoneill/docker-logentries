@@ -1,3 +1,5 @@
+#!/bin/env node
+
 'use strict';
 
 var tls = require('tls');
