@@ -1,4 +1,4 @@
-#! /opt/rh/nodejs010/root/usr/bin node
+#! /usr/bin/env node
 
 'use strict';
 
