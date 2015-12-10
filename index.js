@@ -55,7 +55,7 @@ function start(opts) {
       this.push(token);
       this.push(' ');
       this.push(JSON.stringify(obj));
-      this.push('\n');
+      //this.push('\n');
     }
 
     cb()
